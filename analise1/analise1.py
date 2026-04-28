@@ -10,7 +10,7 @@ print(df_maior_20)
 print(df_menor_20)
 
 
-figura1 = plt.figure(figsize=(12,10))
+figura1 = plt.figure(figsize=(12,8))
 figura1.suptitle('Relação entre uso de IA e confiança na carreira\ncom variação por idade')
 
 # Gráfico para faixa de idade maior que 20 anos
@@ -46,7 +46,7 @@ plt.ylabel('Nível de confiança')
 plt.xticks(range(1,11))
 plt.yticks(range(1,11))
 plt.grid(linestyle='--',alpha=0.3,zorder=0)
-plt.title('Alunos com 20 anos ou menos')
+plt.title('Alunos menos de 20 anos')
 
 coef = np.polyfit(df_menor_20['Task_Frequency_Daily'],df_menor_20['Career_Confidence_Score'], 1)
 linha = np.poly1d(coef)
