@@ -1,0 +1,151 @@
+,Major,Primary_AI_Tool,Main_Usage_Case,0
+0,Biology,ChatGPT-4o,Brainstorming,7
+1,Biology,ChatGPT-4o,Code Debugging,7
+2,Biology,ChatGPT-4o,Essay Drafting,11
+3,Biology,ChatGPT-4o,Exam Prep,16
+4,Biology,ChatGPT-4o,Literature Review,13
+5,Biology,Claude 3.5,Brainstorming,9
+6,Biology,Claude 3.5,Code Debugging,4
+7,Biology,Claude 3.5,Essay Drafting,13
+8,Biology,Claude 3.5,Exam Prep,7
+9,Biology,Claude 3.5,Literature Review,12
+10,Biology,Gemini Pro,Brainstorming,15
+11,Biology,Gemini Pro,Code Debugging,9
+12,Biology,Gemini Pro,Essay Drafting,11
+13,Biology,Gemini Pro,Exam Prep,19
+14,Biology,Gemini Pro,Literature Review,4
+15,Biology,GitHub Copilot,Brainstorming,9
+16,Biology,GitHub Copilot,Code Debugging,9
+17,Biology,GitHub Copilot,Essay Drafting,10
+18,Biology,GitHub Copilot,Exam Prep,13
+19,Biology,GitHub Copilot,Literature Review,9
+20,Biology,Perplexity,Brainstorming,13
+21,Biology,Perplexity,Code Debugging,12
+22,Biology,Perplexity,Essay Drafting,11
+23,Biology,Perplexity,Exam Prep,8
+24,Biology,Perplexity,Literature Review,8
+25,Business Administration,ChatGPT-4o,Brainstorming,10
+26,Business Administration,ChatGPT-4o,Code Debugging,9
+27,Business Administration,ChatGPT-4o,Essay Drafting,9
+28,Business Administration,ChatGPT-4o,Exam Prep,11
+29,Business Administration,ChatGPT-4o,Literature Review,8
+30,Business Administration,Claude 3.5,Brainstorming,12
+31,Business Administration,Claude 3.5,Code Debugging,8
+32,Business Administration,Claude 3.5,Essay Drafting,10
+33,Business Administration,Claude 3.5,Exam Prep,16
+34,Business Administration,Claude 3.5,Literature Review,11
+35,Business Administration,Gemini Pro,Brainstorming,6
+36,Business Administration,Gemini Pro,Code Debugging,9
+37,Business Administration,Gemini Pro,Essay Drafting,11
+38,Business Administration,Gemini Pro,Exam Prep,5
+39,Business Administration,Gemini Pro,Literature Review,4
+40,Business Administration,GitHub Copilot,Brainstorming,10
+41,Business Administration,GitHub Copilot,Code Debugging,10
+42,Business Administration,GitHub Copilot,Essay Drafting,9
+43,Business Administration,GitHub Copilot,Exam Prep,11
+44,Business Administration,GitHub Copilot,Literature Review,15
+45,Business Administration,Perplexity,Brainstorming,12
+46,Business Administration,Perplexity,Code Debugging,9
+47,Business Administration,Perplexity,Essay Drafting,16
+48,Business Administration,Perplexity,Exam Prep,12
+49,Business Administration,Perplexity,Literature Review,13
+50,Data Science,ChatGPT-4o,Brainstorming,10
+51,Data Science,ChatGPT-4o,Code Debugging,5
+52,Data Science,ChatGPT-4o,Essay Drafting,9
+53,Data Science,ChatGPT-4o,Exam Prep,13
+54,Data Science,ChatGPT-4o,Literature Review,6
+55,Data Science,Claude 3.5,Brainstorming,7
+56,Data Science,Claude 3.5,Code Debugging,8
+57,Data Science,Claude 3.5,Essay Drafting,8
+58,Data Science,Claude 3.5,Exam Prep,12
+59,Data Science,Claude 3.5,Literature Review,17
+60,Data Science,Gemini Pro,Brainstorming,14
+61,Data Science,Gemini Pro,Code Debugging,9
+62,Data Science,Gemini Pro,Essay Drafting,9
+63,Data Science,Gemini Pro,Exam Prep,24
+64,Data Science,Gemini Pro,Literature Review,7
+65,Data Science,GitHub Copilot,Brainstorming,11
+66,Data Science,GitHub Copilot,Code Debugging,16
+67,Data Science,GitHub Copilot,Essay Drafting,10
+68,Data Science,GitHub Copilot,Exam Prep,11
+69,Data Science,GitHub Copilot,Literature Review,5
+70,Data Science,Perplexity,Brainstorming,8
+71,Data Science,Perplexity,Code Debugging,7
+72,Data Science,Perplexity,Essay Drafting,10
+73,Data Science,Perplexity,Exam Prep,9
+74,Data Science,Perplexity,Literature Review,14
+75,Fine Arts,ChatGPT-4o,Brainstorming,10
+76,Fine Arts,ChatGPT-4o,Code Debugging,6
+77,Fine Arts,ChatGPT-4o,Essay Drafting,10
+78,Fine Arts,ChatGPT-4o,Exam Prep,10
+79,Fine Arts,ChatGPT-4o,Literature Review,11
+80,Fine Arts,Claude 3.5,Brainstorming,12
+81,Fine Arts,Claude 3.5,Code Debugging,12
+82,Fine Arts,Claude 3.5,Essay Drafting,8
+83,Fine Arts,Claude 3.5,Exam Prep,17
+84,Fine Arts,Claude 3.5,Literature Review,10
+85,Fine Arts,Gemini Pro,Brainstorming,6
+86,Fine Arts,Gemini Pro,Code Debugging,13
+87,Fine Arts,Gemini Pro,Essay Drafting,2
+88,Fine Arts,Gemini Pro,Exam Prep,13
+89,Fine Arts,Gemini Pro,Literature Review,10
+90,Fine Arts,GitHub Copilot,Brainstorming,13
+91,Fine Arts,GitHub Copilot,Code Debugging,8
+92,Fine Arts,GitHub Copilot,Essay Drafting,13
+93,Fine Arts,GitHub Copilot,Exam Prep,10
+94,Fine Arts,GitHub Copilot,Literature Review,18
+95,Fine Arts,Perplexity,Brainstorming,2
+96,Fine Arts,Perplexity,Code Debugging,13
+97,Fine Arts,Perplexity,Essay Drafting,14
+98,Fine Arts,Perplexity,Exam Prep,15
+99,Fine Arts,Perplexity,Literature Review,7
+100,Modern History,ChatGPT-4o,Brainstorming,11
+101,Modern History,ChatGPT-4o,Code Debugging,11
+102,Modern History,ChatGPT-4o,Essay Drafting,11
+103,Modern History,ChatGPT-4o,Exam Prep,11
+104,Modern History,ChatGPT-4o,Literature Review,9
+105,Modern History,Claude 3.5,Brainstorming,4
+106,Modern History,Claude 3.5,Code Debugging,7
+107,Modern History,Claude 3.5,Essay Drafting,10
+108,Modern History,Claude 3.5,Exam Prep,9
+109,Modern History,Claude 3.5,Literature Review,11
+110,Modern History,Gemini Pro,Brainstorming,12
+111,Modern History,Gemini Pro,Code Debugging,6
+112,Modern History,Gemini Pro,Essay Drafting,8
+113,Modern History,Gemini Pro,Exam Prep,12
+114,Modern History,Gemini Pro,Literature Review,12
+115,Modern History,GitHub Copilot,Brainstorming,7
+116,Modern History,GitHub Copilot,Code Debugging,8
+117,Modern History,GitHub Copilot,Essay Drafting,8
+118,Modern History,GitHub Copilot,Exam Prep,5
+119,Modern History,GitHub Copilot,Literature Review,11
+120,Modern History,Perplexity,Brainstorming,10
+121,Modern History,Perplexity,Code Debugging,7
+122,Modern History,Perplexity,Essay Drafting,15
+123,Modern History,Perplexity,Exam Prep,2
+124,Modern History,Perplexity,Literature Review,4
+125,Software Engineering,ChatGPT-4o,Brainstorming,4
+126,Software Engineering,ChatGPT-4o,Code Debugging,11
+127,Software Engineering,ChatGPT-4o,Essay Drafting,13
+128,Software Engineering,ChatGPT-4o,Exam Prep,8
+129,Software Engineering,ChatGPT-4o,Literature Review,8
+130,Software Engineering,Claude 3.5,Brainstorming,8
+131,Software Engineering,Claude 3.5,Code Debugging,9
+132,Software Engineering,Claude 3.5,Essay Drafting,6
+133,Software Engineering,Claude 3.5,Exam Prep,7
+134,Software Engineering,Claude 3.5,Literature Review,13
+135,Software Engineering,Gemini Pro,Brainstorming,12
+136,Software Engineering,Gemini Pro,Code Debugging,4
+137,Software Engineering,Gemini Pro,Essay Drafting,11
+138,Software Engineering,Gemini Pro,Exam Prep,14
+139,Software Engineering,Gemini Pro,Literature Review,11
+140,Software Engineering,GitHub Copilot,Brainstorming,13
+141,Software Engineering,GitHub Copilot,Code Debugging,8
+142,Software Engineering,GitHub Copilot,Essay Drafting,9
+143,Software Engineering,GitHub Copilot,Exam Prep,9
+144,Software Engineering,GitHub Copilot,Literature Review,13
+145,Software Engineering,Perplexity,Brainstorming,9
+146,Software Engineering,Perplexity,Code Debugging,10
+147,Software Engineering,Perplexity,Essay Drafting,6
+148,Software Engineering,Perplexity,Exam Prep,12
+149,Software Engineering,Perplexity,Literature Review,14

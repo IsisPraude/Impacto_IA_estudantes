@@ -1,0 +1,17 @@
+Observando os gráficos, não há uma relação forte e claramente definida entre a frequência de uso de IA e o nível de confiança na carreira.
+A distribuição dos pontos indica que estudantes com diferentes níveis de uso de IA apresentam níveis variados de confiança,
+sem um padrão linear evidente.
+
+Ao separar os dados por faixa etária, percebe-se uma leve tendência positiva entre os estudantes mais jovens (menos de 20 anos),
+sugerindo que, nesse grupo, um maior uso de IA pode estar associado a um pequeno aumento na confiança. A leve correlação observada
+entre uso de IA e confiança entre estudantes mais jovens pode estar associada à maior familiaridade dessa geração com novas tecnologias,
+o que facilita sua adoção e potencializa a percepção de autonomia e preparo profissional.
+Já entre os estudantes com 20 anos ou mais, essa relação se mostra ainda mais difusa, com a confiança distribuída de forma relativamente
+uniforme independentemente do uso de IA, demonstrando uma relação mais neutra com essas ferramentas.
+
+Em relação ao desempenho acadêmico (GPA), representado pela variação de cores, não é possível identificar um padrão claro que indique
+correlação direta entre notas mais altas, maior uso de IA ou maior confiança. Estudantes com diferentes médias aparecem distribuídos
+ao longo de todo o gráfico.
+
+Esses resultados indicam que a confiança na carreira é um fenômeno multifatorial, não sendo explicada apenas pelo uso de ferramentas
+tecnológicas como a IA, apesar da sua crescente em uso e importância em diversos setores. 

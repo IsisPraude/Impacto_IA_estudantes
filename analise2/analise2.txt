@@ -1,0 +1,11 @@
+A análise dos gráficos indica que existe uma leve relação entre a frequência de uso de ferramentas de IA e o tempo economizado
+semanalmente pelos estudantes. De forma geral, observa-se que, em alguns cursos, o aumento no uso de IA está associado a um ganho
+moderado de tempo, sugerindo maior eficiência no desempenho das atividades acadêmicas.
+
+No entanto, essa relação não é uniforme entre todos os cursos. Em áreas como Engenharia de Software, a tendência de aumento no tempo
+economizado é mais evidente, enquanto em cursos como Biologia e Artes, os dados apresentam maior estabilidade, indicando que o impacto
+da IA pode variar conforme o tipo de atividade desenvolvida.
+
+Além disso, a variação dos valores ao longo dos níveis de uso sugere que outros fatores também influenciam o tempo economizado,
+como a familiaridade com as ferramentas ou a natureza das tarefas realizadas, concluindo, asssim, que seu impacto depende do contexto
+e da área de estudo, não sendo um fator determinante isolado.
